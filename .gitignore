@@ -1,0 +1,13 @@
+*.csv
+*.docx
+*.fif
+*.fig
+*.mat
+*.npy
+*.npz
+*.png
+*.pptx
+*.pyc
+*.svg
+*.txt
+.ipynb_checkpoints/*
