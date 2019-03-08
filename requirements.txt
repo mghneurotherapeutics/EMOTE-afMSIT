@@ -1,0 +1,10 @@
+# Numeric computing packages
+numpy
+scipy
+pandas
+mne==0.12.0
+
+# Visualization packages
+matplotlib
+seaborn
+pysurfer
